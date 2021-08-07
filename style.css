@@ -1,0 +1,24 @@
+.header{
+
+    display: flex;
+    justify-content: center;
+    background-color: mediumturquoise ;
+    
+}
+
+
+
+.origami{
+   
+    display: flex;
+    justify-content: space-evenly;
+    background-color: bisque;
+
+}
+
+.aboutandfollow{
+
+display: flex;
+justify-content: space-evenly;
+background-color: bisque;
+}
